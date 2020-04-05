@@ -6,6 +6,7 @@ Enables you to fill all questions in just one keystroke.
 ## Quick Start
 1. Copy the code [here](./filler.js)
 2. Login to your SIS [here](http://sisstudents.pup.edu.ph/) then proceed to your survey form.
+(*Link did not open? Open it with <b>Firefox.</b>*)
 3. Click a Professor's evaluation form by clicking the button "Evaluate Now" under your Prof's name.
 4. Click F12 then select the title "Console" on top of the popup window.
 5. Paste the code you copied from 1.
