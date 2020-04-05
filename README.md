@@ -13,7 +13,7 @@ Enables you to fill all questions in just one keystroke.
 7. Look for this code: `rating = null`. Change the `null` to your Professor rating (from 1-5, highest is 5).
 8. Hit enter then submit your form if there are no errors.
 
-*Please check your survey form before submitting to make sure the generated answers will be fit with your actual score in mind. I will not be liable for ANY damages caused by this program.*
+*Please check your survey form before submitting to make sure the generated answers will be fit with the actual question. I will not be liable for ANY damages caused by this program.*
 
 ## Issues
 Please make an issue if there is anything wrong with the program. 
