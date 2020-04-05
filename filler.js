@@ -10,7 +10,6 @@ var rating;
 // Replace the null below with your rating, else
 // the program will not work.
 // Example: rating = 5;
-
 rating = null;
 
 const loop = (rating = 5) => {
