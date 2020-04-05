@@ -1,5 +1,5 @@
 # PUP SIS Survey Filler
-Enables you to fill all questions in just one keystroke.
+Enables you to fill all questions in just one keystroke. <b>Desktop required!</b>
 
 *For educational purposes only!*
 
