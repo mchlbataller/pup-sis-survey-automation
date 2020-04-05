@@ -1,8 +1,7 @@
 # PUP SIS Survey Filler
 Enables you to fill all questions in one click of a command.
-Love this software? Give me a star, or hit me a DM!
 
-MIT License
+## MIT License
 
 Copyright (c) 2020, Michael Clemente Bataller
 
