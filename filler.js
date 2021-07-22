@@ -1,22 +1,16 @@
-var rating;
-
-// This snippet allows you to automatically fill all the 
-// PUP SIS Survey questions in just a single keyboard click.
+// Author: Michael C. Bataller
 // 
-// 
-// Code snippet by Michael C. Bataller
-// License can be found in LICENSE file, All Rights Reserved 2020.
-
-// Replace the null below with your rating, else
-// the program will not work.
-// Example: rating = 5;
-rating = null;
-
-const loop = (rating = 5) => {
-    for (var i = 1; i <= 20; i++) {
-        document.getElementById(`Q${i}${rating}`).checked = true;
-    }
+// Instructions: Paste this in your 
+// browser's DevTools console.
+window.scrollTo(0, document.body.scrollHeight)
+let yourRating = 3;
+try {
+    (function (rating = 1) {
+        for (var i = 1; i <= 40; i++) {
+            document.getElementById(`q${i}${rating}`).checked = true;
+        }
+    })(yourRating)
 }
-
-// execute the function
-loop(rating);
+catch (err) {
+    document.getElementById('btnsubmit').click()
+}
